@@ -1,0 +1,20 @@
+{
+    "group": "Cloud Solution Hubs",
+    "team": "Developer Innovation Team",
+    "category": "Hands on Labs",
+    "hols": [
+        {
+        "title": "Container Native Application Development",
+        "description": "Learn Infrastructure as Code leveraging Terraform, Kubernetes, Wercker, HELM, Docker, Github and the Oracle Cloud Infrastructure.",
+        "eloqua_page":"https://go.oracle.com/container-native-development",
+        "youtube":"https://youtu.be/9n8JMlvjFiw"
+        },
+        {
+        "title": "Containerized Development with Docker",
+        "description": "Learn how to leverage Docker, Microservices and Oracle inside containers for rapid application development.",
+        "eloqua_page":"https://go.oracle.com/docker",
+        "youtube":"https://youtu.be/ivNEREBsH9k"
+        }
+    ]
+
+}

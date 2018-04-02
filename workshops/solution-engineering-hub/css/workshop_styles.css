@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'arial narrow';
+  src: url('../fonts/arialn.ttf')  format('truetype');
+  }
+
+@font-face {
+  font-family: 'arial bold';
+  src: url('../fonts/arialnb.ttf')  format('truetype');
+  }
+  
+@font-face {
+  font-family: 'arial bold italic';
+  src: url('../fonts/arialnbi.ttf')  format('truetype');
+}
+
+html { 
+  background-color:#00a195;
+  background: url('../images/bg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ height: 100%;
+}
+
+body {
+    font-family:'arial narrow', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color:  #fff;
+    margin:0px;
+ }
+
+a { 
+color:white;
+text-decoration: none;}
+
+.content{
+position: relative;
+float: right;
+margin: 1.5em 2em 0 0;
+width: 800px;
+}
+
+.team{
+width: 100%;
+/*background-color: #d9d9d9;
+color: #212121;
+*/
+background-color: rgba(0,0,0,.4);
+border-top: 2px solid #fff;
+border-bottom: 2px solid #fff;
+padding: 10px 0px;
+}
+
+.team h3{
+font-size: 2em;
+margin: 10px 0 0 5px;
+line-height: .3em;
+}
+
+.team h1{
+font-family:'arial bold', Arial, Helvetica, sans-serif;
+font-size: 3.7em;
+margin: 15px 0 0 5px;
+line-height: 1em;
+}
+
+.category{
+width: 100%;
+font-family:'arial bold italic', Arial, Helvetica, sans-serif;
+background-color: rgba(4,94,140,.8); /*#045e8c*/
+border-bottom: 2px solid #fff;
+padding: 5px 0px;
+color: #fff;
+}
+
+.category h4{
+margin: 0px 0 0 5px;
+font-size: 1.4em;
+}
+
+.workshop{
+width: 100%;
+margin: 2em 0;
+background-color: rgba(0,0,0,.6);
+}
+
+.workshop h3{
+font-family:'arial bold italic', Arial, Helvetica, sans-serif;
+font-size: 1.4em;
+}
+
+.workshop p{
+clear: both;
+font-size: 1.4em;
+}
+
+.linker{
+position: relative;
+width: 50%;
+float: left;
+background-color: rgba(4,94,140,.8);
+text-align: center;
+}
+
+
+
