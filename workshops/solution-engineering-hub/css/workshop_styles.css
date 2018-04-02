@@ -79,29 +79,61 @@ margin: 0px 0 0 5px;
 font-size: 1.4em;
 }
 
+
+
 .workshop{
 width: 100%;
-margin: 2em 0;
-background-color: rgba(0,0,0,.6);
+
+float: left;
+position: relative;
+margin: 1em 0;
+/*background-color: rgba(0,0,0,.6);*/
+background-color: rgba(229, 234, 235, .95);
 }
 
-.workshop h3{
+.workshop h4{
 font-family:'arial bold italic', Arial, Helvetica, sans-serif;
-font-size: 1.4em;
+font-size: 1.8em;
+color: #47585E;
+padding: 5px 10px 5px 10px;
+margin: 0 0;
 }
 
 .workshop p{
 clear: both;
-font-size: 1.4em;
+font-size: 1.1em;
+margin: 0 0;
+padding: 10px 10px 20px 10px;
+color: #47585E;
 }
 
-.linker{
+.linker_l{
 position: relative;
-width: 50%;
+width: 49.9%;
 float: left;
 background-color: rgba(4,94,140,.8);
 text-align: center;
+margin-top:2px;
+font-size: 1.1em;
+padding: 3px 0px;
+}
+.linker_r{
+position: relative;
+width: 49.9%;
+float: right;
+font-size: 1.1em;
+background-color: rgba(4,94,140,.8);
+text-align: center;
+margin-top:2px;
+padding: 3px 0px;
 }
 
+.linker_l:hover{
+color: #f7c330;
+}
+
+.linker_r:hover{
+color: #f7c330;
+}
 
 
