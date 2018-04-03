@@ -14,7 +14,32 @@
         "description": "Learn how to leverage Docker, Microservices and Oracle inside containers for rapid application development.",
         "eloqua_page":"https://go.oracle.com/docker",
         "youtube":"https://youtu.be/ivNEREBsH9k"
+        },
+        {
+        "title": "Database Cloud Service for DBA's",
+        "description": "Learn how to leverage quickly create, manage and migrate data into the Database Cloud Service.",
+        "eloqua_page":"https://go.oracle.com/dbcs_dba",
+        "youtube":"https://youtu.be/vlxLeglSVoc"
+        },
+        {
+        "title": "Devops Cloud Native Microservices",
+        "description": "Create a Software Development Lifecycle (SDLC) for a Cloud Native project that will create and use several Microservices. ",
+        "eloqua_page":"https://go.oracle.com/microservices-devops",
+        "youtube":"https://youtu.be/7ddsnYts6pY"
+        },
+        {
+        "title": "Devops Cloud Native Microservices with MySQL",
+        "description": "Create a Software Development Lifecycle (SDLC) for a Cloud Native project that will create and use several Microservices leveraging a MySQL backend database. ",
+        "eloqua_page":"https://go.oracle.com/microservices-mysql",
+        "youtube":"https://youtu.be/len0quirlME"
+        },
+        {
+        "title": "Java Cloud Service with Stack Manager",
+        "description": "Learn how to implement Infrastructure as Code for a Struts application using Stack Manager and the Java Cloud Service. ",
+        "eloqua_page":"https://go.oracle.com/devopsjcs",
+        "youtube":""
         }
+
     ]
 
 }

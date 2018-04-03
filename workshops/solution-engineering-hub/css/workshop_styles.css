@@ -56,6 +56,7 @@ padding: 10px 0px;
 font-size: 2em;
 margin: 10px 0 0 5px;
 line-height: .3em;
+text-shadow: 0px 0px 1px #1e2527, -1px -1px #1e2527, 1px 1px #1e2527;
 }
 
 .team h1{
@@ -63,6 +64,7 @@ font-family:'arial bold', Arial, Helvetica, sans-serif;
 font-size: 3.7em;
 margin: 15px 0 0 5px;
 line-height: 1em;
+text-shadow: 0px 0px 2px #000, -1px -1px #000, 1px 1px #000;
 }
 
 .category{
@@ -77,18 +79,19 @@ color: #fff;
 .category h4{
 margin: 0px 0 0 5px;
 font-size: 1.4em;
+text-shadow: 0px 0px 1px #1e2527, -1px -1px #1e2527, 1px 1px #1e2527;
 }
 
 
 
 .workshop{
 width: 100%;
-
 float: left;
 position: relative;
 margin: 1em 0;
 /*background-color: rgba(0,0,0,.6);*/
 background-color: rgba(229, 234, 235, .95);
+border: 1px solid #aabcc2;
 }
 
 .workshop h4{
@@ -97,6 +100,7 @@ font-size: 1.8em;
 color: #47585E;
 padding: 5px 10px 5px 10px;
 margin: 0 0;
+text-shadow: 0px 0px 1px #fff, -1px -1px #fff, 1px 1px #fff;
 }
 
 .workshop p{

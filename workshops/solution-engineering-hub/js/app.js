@@ -13,9 +13,22 @@ var app = angular.module('workshopApp',['ngSanitize','workshopServices']);
 
 app.controller('workshopCtlr', function($scope, $http, $location, $timeout, workshopData ) {
     
+   
+    
   /*Query  .json*/
     $scope.workshop_data = workshopData.query(function(){
     console.log("Query the workshop.json");
     });
+    
+/*function to handle empty links*/
+   $scope.showLink = function(url){
+    if(url == '' || url == null) {
+    return false;
+    }
+    else {
+        return true;
+    }
+    }
+
 });
 //end Controller

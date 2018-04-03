@@ -24,8 +24,8 @@
 <div class="workshop"  ng-repeat="hol in workshop_data.hols">
 <h4>{{hol.title}}</h4>
 <p>{{hol.description}}</p>
-<a href="{{hol.eloqua_page}}" target="_new" class="linker_l">Access Hands on Lab</a>
-<a href="{{hol.youtube}}" target="_new" class="linker_r">Watch Overview</a>
+<a href="{{hol.eloqua_page}}" target="_new" class="linker_l" ng-show="showLink(hol.eloqua_page)">Access Hands on Lab</a>
+<a href="{{hol.youtube}}" target="_new" class="linker_r" ng-show="showLink(hol.youtube)">Watch Overview</a>
 </div>
 
 </div>
