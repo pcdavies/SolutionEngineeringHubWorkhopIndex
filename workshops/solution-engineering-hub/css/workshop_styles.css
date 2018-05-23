@@ -111,6 +111,32 @@ padding: 10px 10px 20px 10px;
 color: #47585E;
 }
 
+.workshop h3{
+clear: both;
+font-size: 1.1em;
+margin: 0 0 0 0;
+padding: 5px 10px 5px 10px;
+color: #47585E;
+}
+
+.registration {
+float: right;
+margin-right:60%;
+padding-left:2em;
+color: #47585E;
+
+}
+
+.registration:hover {
+ font-style: italic;
+ color: #000;
+}
+
+.digitalDemoLinks{
+padding: 0;
+font-weight: 800;
+}
+
 .linker_l{
 position: relative;
 width: 49.9%;
