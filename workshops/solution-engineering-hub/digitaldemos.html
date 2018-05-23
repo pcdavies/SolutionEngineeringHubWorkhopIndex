@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Digital Demos</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="stylesheet" href="css/workshop_styles.css">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<script src="js/app.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-resource.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-sanitize.min.js"></script>
+</head>
+<body>
+<div ng-app="workshopApp" ng-controller="workshopCtlr" class="content">
+
+<div class="team">
+<h3>{{digitaldemo_data.group}}</h3>
+<h1>{{digitaldemo_data.team}}</h1>
+</div>
+<div class="category">
+<h4>{{digitaldemo_data.category}}</h4>
+</div>
+
+<!-- -->
+<div class="workshop"  ng-repeat="demo in digitaldemo_data.demo">
+<h4>{{demo.title}}</h4>
+<p>{{demo.description}}</p>
+
+<h3 class="digitalDemoLinks" ng-repeat="event in demo.events">
+{{event.date}} <a href="{{event.link}}" target="_new"  class ="registration" ng-show="showLink(event.link)">Registration Link</a>
+</h3>
+
+</div>
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,126 @@
+{
+    "group": "Oracle Digital",
+    "team": "Digital Demos",
+    "category": "Upcoming Schedule",
+    "demo": [
+        {
+        "demo":1,
+        "title": "Autonomous Data Warehouse Cloud Service",
+        "description": "How Oracle Autonomous Data Warehouse Cloud provides an easy-to-use, fully autonomous database that scales elastically delivers fast query performance and requires no database administration.",
+        "events": [
+        {"date": "June 22nd",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=599656661" 
+        },
+{"date": "June 29th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=598771138" 
+        },
+{"date": "July  6th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=593762745" 
+        },
+{"date": "July  13th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=592898179" 
+        },
+{"date": "July  20th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=599913760" 
+        },
+{"date": "July  27th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=597829323" 
+        },
+{"date": "August 3rd",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=596423051" 
+        },
+{"date": "August 10th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=593999527" 
+        },
+{"date": "August 17th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=594871479" 
+        },
+{"date": "August 24th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=592022164" 
+        },
+{"date": "August 31st",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=597190677" 
+        }
+        ]
+        },
+        {
+        "demo":2,
+        "title": "Oracle Cloud Infrastructure Building Blocks: Compute, Storage & Network",
+        "description": "In this demo we will cover the fundamentals of cloud infrastructure viz Compute, Storage & Networking.",
+        "events": [
+        {"date": "June 20th",
+        "link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=599922532"
+          },
+{"date": "June 27th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=598827412"},
+{"date": "July 11th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=593759837"},
+{"date": "July 18th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=590960796"},
+{"date": "July 25th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=590135788"},
+{"date": "August 1st",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=591495106"},
+{"date": "August 8th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=595954643"},
+{"date": "August 15th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=599795468"},
+{"date": "August 22nd",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=597942434"},
+{"date": "August 29th",
+"link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=596734025"}
+        ]
+        },
+        {
+        "demo":3,
+        "title": "Integration",
+        "description": "Integrate your applications with Oracle SaaS (RightNow, Eloqua etc).",
+        "events": [
+        {"date": "June 21st","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=595865478"},
+{"date": "July 5th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=599608841"},
+{"date": "July 19th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=596270700"},
+{"date": "Aug 2nd","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=593816175"},
+{"date": "Aug 16th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=599116072"},
+{"date": "Aug 30th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=592658975"}
+        ]
+        },
+        {
+        "demo":4,
+        "title": "Running Node JS, PHP, Python in Oracle Cloud",
+        "description": "Take an application workload and move it to the Oracle Cloud.",
+        "events": [
+        {"date": "June 18th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=593382319"},
+{"date": "July 2nd","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=596077899"},
+{"date": "July 16th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=595406913"},
+{"date": "July 30th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=598540444"},
+{"date": "Aug 13th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=598984367"},
+{"date": "Aug 27th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=599926294"}
+
+        ]
+        },
+        {
+        "demo":5,
+        "title": "Cloud Application Security Broker",
+        "description": "How Oracle CASB can enforce security, compliance, and governance policies for all your cloud applications",
+        "events": [
+        {"date": "June 19th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=595431625"},
+{"date": "July 3rd","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=593018495"},
+{"date": "July 17th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=596076790"},
+{"date": "July 31st","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=597850099"},
+{"date": "Aug 14th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=591395748"},
+{"date": "Aug 28th","link": "https://oracle.webex.com/oracle/onstage/g.php?t=a&d=591019451"}
+
+        ]
+        }
+     ]
+
+}
+
+
+
+
+
+
+
+
+
