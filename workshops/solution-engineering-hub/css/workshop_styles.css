@@ -38,7 +38,8 @@ text-decoration: none;}
 position: relative;
 float: right;
 margin: 1.5em 2em 0 0;
-width: 800px;
+width: 60%;
+max-width: 800px;
 }
 
 .team{
@@ -166,4 +167,26 @@ color: #f7c330;
 color: #f7c330;
 }
 
+/**/
+@media  (max-width: 720px) {
+body {
+    font-family:'arial narrow', Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.content{
+margin: 1.5em .1em 0 .1em;
+}
+
+.team h1 {
+    font-family: 'arial bold', Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+.team h3 {
+    font-size: 1.6em;
+}
+
+
+}
 
